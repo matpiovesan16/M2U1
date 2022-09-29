@@ -1,0 +1,79 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: rgb(253,253,259);
+    background: linear-gradient(90deg, rgba(253,253,255,1) 0%, rgba(151,153,153,0.01157407407407407) 100%, rgba(175,175,175,1) 100%);
+
+}
+
+form{
+    border:  2px solid black;
+    background-color: rgba(215, 216, 216, 0.836);
+    width: 35vw;
+    box-sizing: content-box;
+    margin-left: 32vw;
+    box-shadow: 2px 2px 2px black;
+}
+
+.botones{
+    margin-left: 12vw;
+}
+
+h3{
+    text-align: center;
+}
+
+h3>a:visited{
+    color: black;
+
+}
+
+h3>a{
+    text-decoration: none;
+}
+
+h3>a:hover{
+    text-decoration: underline;
+}
+
+
+header>h1{
+    text-align: center;
+}
+
+.imgCV>img{
+    height: 350px;
+    width: 350px;
+    margin-left: 40vw;
+    border: 1px solid black;
+    border-radius: 15%;
+    box-shadow: 3px 3px 2px black;
+
+}
+
+
+
+.cv-items>h2{
+    text-align: center;
+}
+
+.cv-items{
+    text-align: justify;
+}
+
+.contacto{
+    margin-top: 30px;
+
+}
+
+p>a{
+    text-decoration: none;
+}
+
+p>a:visited{
+    color: black;
+}
+
+p>a:hover{
+    text-decoration: underline;
+    
+}
